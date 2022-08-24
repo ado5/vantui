@@ -24,6 +24,8 @@
 .stylelintignore
 LICENSE
 
+devapp
+
 node_modules
 packages/**/coverage
 packages/**/dist
