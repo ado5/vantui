@@ -24,8 +24,6 @@
 .stylelintignore
 LICENSE
 
-devapp
-
 node_modules
 packages/**/coverage
 packages/**/dist
@@ -56,3 +54,5 @@ packages/react-demo/scripts
 packages/react-demo/public
 packages/react-demo/src
 packages/vantui-doc
+
+packages/vantui-shop

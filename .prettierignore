@@ -17,7 +17,7 @@
 .stylelintignore
 LICENSE
 
-devapp
+packages/vantui-shop
 
 node_modules
 packages/**/coverage
